@@ -1,0 +1,20 @@
+h1 {
+    color: #ff6666;
+  }
+  h2 {
+    color: #990099;
+  }
+  p {
+    width: 33%;
+  }
+  ul {
+    list-style-type: square;
+  }
+  ol {
+    color: #ff3399;
+    text-decoration: underline;
+  }
+  ol .black {
+    color: #000;
+    text-decoration: underline;
+  }
